@@ -1,6 +1,6 @@
 # Hi, I'm Ari Effendi 👋
 
-**Product builder.** I design, build, and ship small software products that solve concrete problems, mostly for schools and small teams in Indonesia.
+**Product builder, empowered by AI.** AI writes most of the code these days. Product direction remains my own decision: what to build, who it is for, and why it matters. I ship small products, mostly for schools and small teams in Indonesia.
 
 Currently building **[LabIPA](https://labipa.id)** and **[Soon](https://soon.my.id)**. I keep open source as a side project: a place to share what I learn while exploring new stacks, and to build the tools I need for problems I run into myself.
 
@@ -53,6 +53,8 @@ More small tools:
 - **[nix-idx](https://github.com/arifnd/nix-idx)** & **[idx-templates](https://github.com/arifnd/idx-templates)**: Unofficial Nix collection and templates for Firebase Studio / Project IDX. `Nix`
 
 ## 🧰 How I build
+
+AI handles the bulk of implementation. I focus on product direction, system design, and the judgment calls that shape what gets shipped.
 
 **Languages**
 
