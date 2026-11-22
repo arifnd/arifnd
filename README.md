@@ -39,6 +39,15 @@ Launch a coming-soon page and collect subscribers before you build.
 
 [Website](https://soon.my.id) · [Blog](https://soon.my.id/blog)
 
+## 🎤 Speaking
+
+Talks and workshops on AI-assisted development, small products, and infrastructure.
+
+- **2026** · Lightning talk, Jatim Developer Day<br>
+  “When AI Forgets: A Lightweight Execution Workflow for Reliable AI-Based Programming”
+- **2022** · Keynote, Indonesia Linux Conference<br>
+  “Ketika Pinguin Menggigit Anda”
+
 ## 🔨 Side projects & open source
 
 A side project in the open: experiments with new stacks, notes from exploring them, and tools born from problems I hit myself.
