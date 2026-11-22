@@ -2,7 +2,7 @@
 
 **Product builder, empowered by AI.** AI writes most of the code these days. Product direction remains my own decision: what to build, who it is for, and why it matters. I ship small products, mostly for schools and small teams in Indonesia.
 
-Currently building **[LabIPA](https://labipa.id)** and **[Soon](https://soon.my.id)**. I keep open source as a side project: a place to share what I learn while exploring new stacks, and to build the tools I need for problems I run into myself.
+Currently building **[LabIPA](https://labipa.id)**, **[Fakturr](https://fakturr.id)**, and **[Soon](https://soon.my.id)**. I keep open source as a side project: a place to share what I learn while exploring new stacks, and to build the tools I need for problems I run into myself.
 
 📍 Indonesia · ✍️ [arifnd.github.io](https://arifnd.github.io)
 
@@ -19,6 +19,20 @@ A management system for school science laboratories (Laboratorium IPA), replacin
 - **Lab profile:** room capacity, facilities, and key equipment in one dashboard
 
 [Website](https://labipa.id) · [Live demo](https://demo.labipa.id)
+
+### [Fakturr](https://fakturr.id): Invoicing without the hassle
+
+An invoicing app for Indonesian small businesses, freelancers, and digital workers: create professional invoices, record payments, and track real income in one place.
+
+- **Invoice builder:** 5 templates, business logo, and custom colors
+- **Automatic amount in words:** totals written out in Indonesian, no manual typing
+- **Easy sharing:** download as PDF or send a public link over WhatsApp
+- **Flexible payments:** record full or partial payments, with status and remaining balance updated automatically
+- **Real income tracking:** see payments actually received by day and month, not just invoices issued
+- **Works anywhere:** light, responsive interface for laptop or phone
+- Free tier: 5 invoices per month, no monthly subscription, pay-as-you-go credit packs
+
+[Website](https://fakturr.id)
 
 ### [Soon](https://soon.my.id): Validate before you build
 
@@ -102,7 +116,7 @@ Recent posts:
 
 ## 📫 Get in touch
 
-- Products: [labipa.id](https://labipa.id) · [soon.my.id](https://soon.my.id)
+- Products: [labipa.id](https://labipa.id) · [fakturr.id](https://fakturr.id) · [soon.my.id](https://soon.my.id)
 - Blog: [arifnd.github.io](https://arifnd.github.io)
 - GitHub: [@arifnd](https://github.com/arifnd)
 - RSS: [arifnd.github.io/index.xml](https://arifnd.github.io/index.xml)
