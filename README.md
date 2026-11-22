@@ -10,39 +10,32 @@ Currently building **[LabIPA](https://labipa.id)**, **[Fakturr](https://fakturr.
 
 ### [LabIPA](https://labipa.id): School science lab management
 
-A management system for school science laboratories (Laboratorium IPA), replacing scattered spreadsheets with one structured workflow, from inventory to accreditation reports.
+One structured workflow for school science labs, replacing scattered spreadsheets.
 
-- **Centralized inventory:** equipment and materials with condition, stock, and expiry tracking
-- **Practicum scheduling:** controlled lab usage across classes, no double-booking
-- **Usage records:** every practicum documented for evaluation and supervision
-- **Automatic reports & export:** data ready for internal review and accreditation
-- **Lab profile:** room capacity, facilities, and key equipment in one dashboard
+- Inventory with condition, stock, and expiry tracking
+- Practicum scheduling and usage records, no double-booking
+- Automatic reports and exports for accreditation
 
 [Website](https://labipa.id) · [Live demo](https://demo.labipa.id)
 
 ### [Fakturr](https://fakturr.id): Invoicing without the hassle
 
-An invoicing app for Indonesian small businesses, freelancers, and digital workers: create professional invoices, record payments, and track real income in one place.
+Invoicing for Indonesian small businesses, freelancers, and digital workers.
 
-- **Invoice builder:** 5 templates, business logo, and custom colors
-- **Automatic amount in words:** totals written out in Indonesian, no manual typing
-- **Easy sharing:** download as PDF or send a public link over WhatsApp
-- **Flexible payments:** record full or partial payments, with status and remaining balance updated automatically
-- **Real income tracking:** see payments actually received by day and month, not just invoices issued
-- **Works anywhere:** light, responsive interface for laptop or phone
-- Free tier: 5 invoices per month, no monthly subscription, pay-as-you-go credit packs
+- 5 templates, logo, and custom colors
+- PDF or public link, shareable via WhatsApp
+- Full or partial payments, with real income tracking
+- Free: 5 invoices/month, then pay-as-you-go credits
 
 [Website](https://fakturr.id)
 
 ### [Soon](https://soon.my.id): Validate before you build
 
-A self-serve tool for launching a coming-soon page and collecting interested subscribers before spending time and money on a product.
+Launch a coming-soon page and collect subscribers before you build.
 
-- Create a page in minutes, with no coding or hosting to manage
-- Share the link, collect emails, watch the list grow
-- Custom domains for a more professional identity
-- Export subscribers as CSV anytime
-- Free tier: one page and up to 500 subscribers
+- Page in minutes, no coding or hosting to manage
+- Custom domains, CSV export anytime
+- Free: one page and up to 500 subscribers
 
 [Website](https://soon.my.id) · [Blog](https://soon.my.id/blog)
 
